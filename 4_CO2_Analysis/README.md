@@ -6,8 +6,8 @@ The analysis includes the time series analysis of the data outside the laborator
 
 ### **Files:**
 
-1. **co2_diff_room_exp.ipynb** - Comparison between the decay rate of Cם2 levels in a room without plants compared to a room with plants.
-2. **CO_2 Flux experiment.pptx** - PPT file with explanetions of the stages of the experiment in number 1.
-3.
-4. 
+1. **CO_2 Flux experiment.pptx** - PPT file with explanetions of the stages of the experiment in number 4.
+2. **Co2_in_out_Analysis.pptx** - PPT file with explanetions and results of the stages of the experiment in number 3
+3.**co2_analysis_sort.ipynb** - Time series analysis of CO2 data inside and outside the lab.
+4. **co2_enrichment_sort_analysis.ipynb** - Comparison between the decay rate of CO2 levels in a room without plants compared to a room with plants.
 
