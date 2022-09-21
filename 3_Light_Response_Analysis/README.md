@@ -1,0 +1,1 @@
+In this part I will Analyze the results obtained by the model that was activated in Excel in orer to quantify the effect of different light intensity values on the different species on the green wall.
