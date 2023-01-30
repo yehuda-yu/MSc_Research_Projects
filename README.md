@@ -1,7 +1,7 @@
 # MSc_Research_Projects
 
 
-##Introduction
+## Introduction
 This repository summarizes all the data analysis and data from the various projects during my M.Sc degree in the Modeling and Monitoring Vegetation Systems lab at the Faculty of Agriculture of the Hebrew University.
 
 ## Files
