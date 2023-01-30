@@ -5,23 +5,22 @@
 This repository summarizes all the data analysis and data from the various projects during my M.Sc degree in the Modeling and Monitoring Vegetation Systems lab at the Faculty of Agriculture of the Hebrew University.
 
 ## Files
-File 1: ----
-This file contains the data collected from the monitoring sensors, including temperature, humidity, and soil moisture.
+* 1_Daily_Trend
+Contains data on leaf samples collected to evaluate the daily trend of CO2 assimilation and transpiration of various species in a vertical green vegetation wall inside a laboratory space.
 
-File 2: ----
-This file includes the data on plant growth and development, including plant height, leaf area, and biomass production.
+* 2_A_Ca_Curves_Analysis
+Contains data and analysis of CO2 response curve in order to asses how changes in CO2 levels in the room affect on the CO2 assimilation rate of the plants.
 
-File 3: ----
-This file consists of information on the environmental conditions, including light intensity, atmospheric CO2 concentration, and precipitation.
+* 3_Light_Response_Analysis
+Contains data and analysis of light response curve in order to asses how changes in light intensity affect on the CO2 assimilation rate of the plants.
 
-File 4: ----
-This file contains the results of the statistical analysis of the data, including regression models and correlation coefficients.
+* 4_CO2_Analysis
+Contains data and analysis of different CO2 inside and outside in order to quantify the GW effect on the CO2 levels inside the room. Includes time series data analysis and statistics.
 
-File 5: ----
-This file summarizes the findings of the research project, including the relationships between environmental factors and plant growth and development.
+* 5_Temperature_RH_Analysis
+contains data and data analysis from temperature and humidity sensors to evaluate the spatial and temporal impact of a green wall on thermal comfort conditions in a room.
 
-File 6: ----
-This file includes the code used for data processing, analysis, and visualization.
+* Hyperspectral_Thermal_Analysis
+This file includes hyperspectral & thermal data, and leaf samples to develop AI model and image processing for predicting green wall's environmental impact, detecting anomaly, and mapping species.
 
-Conclusion
-This repository provides a comprehensive overview of the data analysis and results from a research project on vegetation systems. The various files allow for easy access to the raw data, statistical analysis, and findings.
+
